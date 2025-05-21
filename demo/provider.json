@@ -3,6 +3,6 @@
     "name": "Igniter Demo",
     "identity": "31969b32-411a-47b9-878c-ac23893fca29",
     "publicKey": "03c7083fc7404ff0daeff3ab1b69772f4855fc2139a65c200137ff1f0f50410497",
-    "url": "http://localhost:3001"
+    "url": "http://provider.default.svc.cluster.local:3001"
   }
 ]
