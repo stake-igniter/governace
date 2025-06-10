@@ -1,8 +1,8 @@
 [
   {
-    "name": "POKTscan",
-    "identity": "02adbf8400e629994613c5e93eae453ccc982e4cd108a0ed4aa779f3ab2cb4b703",
+    "name": "DoPOKT",
+    "identity": "02df62127f732d18fa10f9febe9bdfc2d4f7f1acadc9c23fd1a505cd81c7592193",
     "identityHistory": [],
-    "url": "https://testnet-igniter.poktscan.cloud"
+    "url": "https://igniter-testnet.dopokt.com"
   }
 ]
