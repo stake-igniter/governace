@@ -4,5 +4,12 @@
     "identity": "02db1201b1537b51d2067b307c2bb3811cc93e366450cbeb8f200fe69f95573fcc",
     "identityHistory": [],
     "url": "https://igniter.dopokt.com"
+  },
+  {
+  "role": "provider",
+  "name": "Kleomedes",
+  "owner_identity": "pokt1martg35uqv4pjp6dr8ncnmaqynqaxz9tmp48vz",
+  "owner_email": "marco@kleomed.es",
+  "app_identity": "A393fjpx+QNLpXU4frE52gn35PI1dNnsh3e8/biwEuU6"
   }
 ]
