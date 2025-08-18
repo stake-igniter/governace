@@ -6,10 +6,9 @@
     "url": "https://igniter.dopokt.com"
   },
   {
-  "role": "provider",
-  "name": "Kleomedes",
-  "owner_identity": "pokt1martg35uqv4pjp6dr8ncnmaqynqaxz9tmp48vz",
-  "owner_email": "marco@kleomed.es",
-  "app_identity": "A393fjpx+QNLpXU4frE52gn35PI1dNnsh3e8/biwEuU6"
+    "name": "Kleomedes",
+    "identity": "037f777e3a71f9034ba575387eb139da09f7e4f23574d9ec8777bcfdb8b012e53a",
+    "identityHistory": [],
+    "url": "https://igniter.kleomed.es"
   }
 ]
